@@ -1,4 +1,4 @@
-# Redux Toolkit 예제
+# React + Redux
 
 - [x] Data Fetching
 - [x] ToDo List
