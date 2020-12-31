@@ -3,6 +3,7 @@ import { useSelector } from "react-redux";
 import Form from "./Form";
 import Item from "./Item";
 import List from "./List";
+import Movie from "./Movie";
 import { RootState } from "./store/reducer";
 
 const App = () => {
@@ -25,6 +26,7 @@ const App = () => {
           ))}
         </ul>
       </List>
+      <Movie />
     </div>
   );
 };
