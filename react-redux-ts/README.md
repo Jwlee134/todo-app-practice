@@ -1,3 +1,4 @@
 # React + TypeScript + Redux
 
-- [x] ToDo Application
+- [x] ToDo List
+- [x] Redux Persist
